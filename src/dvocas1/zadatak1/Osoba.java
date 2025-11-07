@@ -1,4 +1,4 @@
-package dvocas1_ponedeljak.zadatak1;
+package dvocas1.zadatak1;
 /*
     Predstavlja klasu Osoba koja ima ime, prezime
     pol, godinu rodjenja i da li je u braku.

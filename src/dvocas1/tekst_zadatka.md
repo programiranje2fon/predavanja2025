@@ -22,9 +22,9 @@
 
 Neki od najpopularnijih IDE za Javu su:
 
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) (postoje i komercijalna i besplatna verzija)
 - [Eclipse](http://www.eclipse.org/) (besplatan)
 - [Apache NetBeans](https://netbeans.apache.org/) (besplatan)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/) (postoje i komercijalna i besplatna verzija)
 
 Neka od popularnijih besplatnih **onlajn okruženja i editora** za Javu su:
 
@@ -43,7 +43,7 @@ Neka od popularnijih besplatnih **onlajn okruženja i editora** za Javu su:
 
 # Zadatak 1
 
-Napraviti klasu **Osoba** u paketu **dvocas1_utorak.zadatak1** koja ima: **(klasa - ideja i deklaracija, paket)**:
+Napraviti klasu **Osoba** u paketu **dvocas1.zadatak1** koja ima: **(klasa - ideja i deklaracija, paket)**:
 
 - atribut **ime** koji predstavlja ime osobe (npr. "Pera") **(atribut - ideja i deklaracija, osnovni tipovi u Javi i default vrednosti: double 0.0, int 0, boolean false, char '\u0000' (null znak), String i ostali objekti null)**
 - atribut **prezime** koji predstavlja prezime osobe (npr. "Peric"). 
@@ -61,7 +61,7 @@ Napraviti klasu **Osoba** u paketu **dvocas1_utorak.zadatak1** koja ima: **(klas
 
 
 
-Napraviti klasu **TestOsoba** u paketu **dvocas1_utorak.zadatak1** koja ima main metodu u kojoj se prave dva objekta klase Osoba i pune sledećim podacima "Lara", "Peric", 'Z', 1990, false i "Mika", "Mikic", 'M', 1983, true. Ispisati na ekranu sve podatke o obe osobe.**(main metoda, objekat - ideja, deklaracija, inicijalizacija, pozivanje atributa, ispis na ekranu - print i println metode)**
+Napraviti klasu **TestOsoba** u paketu **dvocas1.zadatak1** koja ima main metodu u kojoj se prave dva objekta klase Osoba i pune sledećim podacima "Lara", "Peric", 'Z', 1990, false i "Mika", "Mikic", 'M', 1983, true. Ispisati na ekranu sve podatke o obe osobe.**(main metoda, objekat - ideja, deklaracija, inicijalizacija, pozivanje atributa, ispis na ekranu - print i println metode)**
 
 
 

@@ -1,4 +1,4 @@
-package dvocas1_ponedeljak.zadatak1;
+package dvocas1.zadatak1;
 
 public class TestOsoba {
 
