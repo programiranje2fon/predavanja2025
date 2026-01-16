@@ -61,7 +61,7 @@ Izmeniti kod klase **Blog** tj. dodati u nju:
 
 
 
-Izmeniti klasu **BlogPost** tako da implementira interfejs Serializable. Dodati i identifikacioni ključ za serijalizaciju.**(serijalizacija i deserijalizacija objekata u Javi, interfejs Serializable, identifikacioni ključ za serijalizaciju - serialVersionUID)**
+Izmeniti klasu **BlogPost** tako da implementira interfejs Serializable. Dodati i identifikacioni ključ za serijalizaciju.**(serijalizacija i deserijalizacija objekata u Javi, interfejs Serializable, identifikacioni ključ za serijalizaciju - static final long serialVersionUID)**
 
 
 Dodati u klasu **Blog**:
