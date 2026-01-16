@@ -13,7 +13,7 @@ Napraviti javnu klasu **BlogPost** u paketu **dvocas11.zadatak1** koja ima:
 
 - privatni atribut **naslov** koji predstavlja tekst naslova blog post-a.
 - privatni atribut **sadrzaj** koji predstavlja tekst sadržaja blog post-a.
-- privatni atribut **datum** koji predstavlja datum kreiranja blog post-a.
+- privatni atribut **datum** koji predstavlja datum i vreme kreiranja blog post-a.
 
 - javni besparametarski konstruktor koji samo postavlja atribut datum na trenutni datum i vreme.
 - javne **get i set metode** za sve atribute. Atributi naslov, sadržaj i datum ne smeju biti null. U slučaju unosa nedozvoljenih vrednosti baciti izuzetak klase NullPointerException sa odgovarajućom porukom.
