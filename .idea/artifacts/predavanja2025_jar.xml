@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="predavanja2025:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/predavanja2025_jar</output-path>
+    <root id="archive" name="predavanja2025.jar">
+      <element id="module-output" name="predavanja2025" />
+    </root>
+  </artifact>
+</component>
