@@ -16,15 +16,16 @@ Iskoristiti klase **Blog** i **BlogPost** iz paketa **dvocas11.zadatak1** kao kl
 Izmeniti kod klase **BlogPost** odnosno metoda **setNaslov** i **setSadrzaj** tako da bacaju izuzetke i ako je naslov odnosno sadržaj prazan String. 
 
 
-Izmeniti kod klase **Blog** tj. dodati u nju:
+Izmeniti kod klase **Blog** :
 
+- Izmeniti sve metode koje cuvaju u fajl tako da primaju putanju do fajla kao parametar.
 
-- javnu metodu **getPostovi** koja vraća listu sa svim blog postovima iz bloga.
+- Dodati javnu metodu **getPostovi** koja vraća listu sa svim blog postovima iz bloga.
 
-- javnu metodu **sacuvajBlogJSON** koja kao parametar dobija putanju do JSON fajla i u taj fajl
+- Dodati javnu metodu **sacuvajBlogJSON** koja kao parametar dobija putanju do JSON fajla i u taj fajl
 upisuje sav sadržaj svih postova iz blog-a.**(Korišćenje eksterne JAR fajlova i eksternih Java
 biblioteka - GSON, pronalaženje, uključivanje u projekat u lib folder, povezivanje sa projektom,
-klase Gson i GsonBuilder)**
+klase Gson i GsonBuilder, LocalDateTimeTypeAdapter da bi se LocalDateTime serijalizovao u JSON)**
 
 
 Napraviti javnu klasu **BlogGUI** u paketu **dvocas13.zadatak1.gui** koja izgleda kao na slici levo,

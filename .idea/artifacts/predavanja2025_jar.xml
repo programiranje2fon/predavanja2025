@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/predavanja2025_jar</output-path>
     <root id="archive" name="predavanja2025.jar">
       <element id="module-output" name="predavanja2025" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.10.1.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
